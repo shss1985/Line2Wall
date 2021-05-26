@@ -7,4 +7,4 @@ For wall creation start Revit plugin with "SS>Linew2Wall" button, select apropri
 
 In ACAD type "line2wall" command and select line.
 
-Link to review: https://youtu.be/S09NIxWS5SI
+Example: https://youtu.be/S09NIxWS5SI
